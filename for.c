@@ -2,6 +2,8 @@
 #include <stdio.h>
 
 int main() {
-	printf("Hello \nWorld")
+	int i;
+	for(i=o;i<11;i++);
+	printf("%d",i);
 	return 0;
 }
